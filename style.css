@@ -1,0 +1,14 @@
+aside {
+	top: 0px;
+	width: 400px;
+	height: 100%;
+	position: fixed;
+}
+
+section {
+	/* margin: 75px;
+	width: 700px; */
+	margin-top: 75px;
+    margin-left: 250px;
+    margin-right: 50px;
+}
